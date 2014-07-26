@@ -1,4 +1,4 @@
 Repo1
 =====
 
-My first repository on githuban
+My first repository on github
